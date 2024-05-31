@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kris from @codeinfinityeu, freelance Full-stack developer.
-- 👀 I’m interested in Drupal, Vue.js, Nuxt, Angular, Ionic, Typescript, WebGL and many more.
-- 🌱 I’m currently learning Vue.js and Nuxt.
-- 💞️ I’m looking to collaborate on Drupal and Vue.js projects.
+- 👀 I’m interested in Drupal, Vue.js, Nuxt, Ionic, Typescript, WebGL and many more.
+- 💞️ I’m looking to collaborate on Vue, Nuxt, and Drupal projects.
 - 📫 How to reach me [here](https://codeinfinity.eu/).
