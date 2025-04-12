@@ -4,13 +4,13 @@ I’m Kris from @codeinfinityeu, Drupal and Front-end developer.
 
 💞️ I’m looking to collaborate on Drupal, Vue, Nuxt and Ionic projects.
 
-📫 How to reach me [company website](https://codeinfinity.pl/) or at my [LinkedIn](https://www.linkedin.com/in/krzysztof-michalak-a930b441/) profile.
+📫 How to reach me [company website](https://codeinfinity.eu/) or at my [LinkedIn](https://www.linkedin.com/in/krzysztof-michalak-a930b441/) profile.
 
 Contact for access to portfolio code repos.
 
 ## Portfolio - Nuxt 3
 
-[https://codeinfinity.pl/](https://codeinfinity.pl/)
+[https://codeinfinity.eu/](https://codeinfinity.eu/)
 
 ### Tech stack:
 
@@ -28,7 +28,7 @@ Contact for access to portfolio code repos.
 
 ## Example landing page
 
-[https://codeinfinity.pl/case-study/front](https://codeinfinity.pl/case-study/front)
+[https://codeinfinity.eu/case-study/front](https://codeinfinity.eu/case-study/front)
 
 [https://codeinfinity-front.netlify.app/](https://codeinfinity-front.netlify.app/)
 
@@ -42,7 +42,7 @@ Contact for access to portfolio code repos.
 
 ## 3D gallery - Nuxt 3
 
-[https://codeinfinity.pl/case-study/gallery](https://codeinfinity.pl/case-study/gallery)
+[https://codeinfinity.eu/case-study/gallery](https://codeinfinity.eu/case-study/gallery)
 
 Simplified version of art gallery project. Made with Three.js and Nuxt 3. It’s a foundation for a more robust side project with exhibition rooms WYSIWYG builder.
 
@@ -57,7 +57,7 @@ Simplified version of art gallery project. Made with Three.js and Nuxt 3. It’s
 
 ## Task manager
 
-[https://codeinfinity.pl/case-study/taskboard](https://codeinfinity.pl/case-study/taskboard)
+[https://codeinfinity.eu/case-study/taskboard](https://codeinfinity.eu/case-study/taskboard)
 
 [https://codeinfinity-board.netlify.app](https://codeinfinity-board.netlify.app/auth/login)
 
